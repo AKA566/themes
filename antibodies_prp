@@ -1,0 +1,102 @@
+Abstract
+The cellular prion protein (PrPC) is a central player in neurodegenerative diseases caused by
+protein misfolding, such as prion diseases or Alzheimer`s disease (AD). Expression levels of
+this GPI-anchored glycoprotein, especially at the neuronal cell surface, critically correlate
+with various pathomechanistic aspects underlying these diseases, such as templated
+misfolding (in prion diseases) and neurotoxicity and, hence, with disease progression and
+severity. In stark contrast to cell-associated PrPC, soluble extracellular forms or fragments of
+PrP are linked with neuroprotective effects, which is likely due to their ability to interfere with
+neurotoxic disease-associated protein conformers in the interstitial fluid. Fittingly, the
+endogenous proteolytic release of PrPC by the metalloprotease ADAM10 (‘shedding’) was
+characterized as a protective mechanism. Here, using a recently generated cleavage-site
+specific antibody, we shed new light on earlier studies by demonstrating that shed PrP (sPrP)
+negatively correlates with conformational conversion (in prion disease) and is markedly
+redistributed in murine brain in the presence of prion deposits or AD-associated amyloid
+plaques indicating a blocking and sequestrating activity. Importantly, we reveal that
+administration of certain PrP-directed antibodies and other ligands results in increased PrP
+shedding in cells and organotypic brain slice cultures. We also provide mechanistic and
+structural insight into this shedding-stimulating effect. In addition, we identified a striking
+exception to this, as one particular neuroprotective antibody, due to its special binding
+characteristics, did not cause increased shedding but rather strong surface clustering
+followed by fast endocytosis and degradation of PrPC. Both mechanisms may contribute to
+the beneficial action described for some PrP-directed antibodies/ligands and pave the way
+for new therapeutic strategies against devastating and currently incurable neurodegenerative
+diseases. 
+
+Абстракт
+ПрП - это центральный виновник в нейродегенеративных заболеваниях, вызванных дисконформацией протеиной, таких как прионные болезни и синдром Альцгеймера (СА). Уровни экспресси данного GPI-заякоренного гликопротеина, особенно на поверхности нейронов, критически коррелирует с различными патомеханистическами аспектами данных болезней, таких как шаблонная дисконформация в прионных заболевания и нейротоксичностью, а значит и с общим течением болезни и ее тяжестью. На контрасте с клеточным ПрП, внеклеточный растворимый "дикий" ПрПС имеет, вероятно, нейропротекторный эффект, скорее всего из-за способности вмешиваться в нейротоксичные ассоциированные с заболеваниями конформеры в межклеточной жидкости. В подтверждение этому, эндогенные протеолитический выброс ПрПС металлопротеазой АДАМ10 (так называемое "осыпание") было охарактеризовано как защитный механизм. В данном исследовании, используя недавно найденные специфичные к месту отреза антитела, мы проливаем свет на предыдущие исследования, демонстрируя, что осыпавшийся ПрП (оПрП, опрп) негативно коррелирует с болезнетворной конформационной конвертацией (при прионных болезнях) и заметно распределен в мозге мышей при наличии прионных депозитов или СА-ассоциированных амилоидов, что показывает на блокирующую активность опрп. Что важно, мы раскрываем, что введение определенных ПрП-направленных антител или других лигандов, имеет результатом повышенное "осыпание" ПрП в клетках и органотипических культурах среза мозгового вещества. Мы также раскрываем механистическую и структурную природу этого эффекта, который стимулирует осыпание.  Вдобавок к этому, мы нашли серьезное исключение к обнаруженному нами правилу, так как одно отдельное нейропротективное антитело, из-за специфических свойств присоединения, не усилило осыпание, а наоборот усилие поверхностную агрегацию и последующий за ним быстрый эндоцитоз и деградацию ПрПС. Оба механизма вносят позитивный вклад и дают инсайты для новых терапевтических стратегий.
+
+Introduction
+Neurodegenerative diseases, such as Alzheimer`s (AD) and Parkinson`s disease (PD) as
+well as less frequent prion diseases, not only share mechanisms of protein misfolding,
+protein aggregation and progressive spreading of pathology [1-3], but also involve common
+molecular players [4, 5]. One example is the cellular prion protein (PrPC), a highly conserved
+cell surface glycoprotein with high (yet not exclusive) expression in the nervous system [6].
+Apart from its physiological functions, PrPC plays a key role in prion diseases of humans (e.g.
+Creutzfeldt-Jakob disease (CJD)) and animals (e.g. chronic wasting disease in elk and deer;
+bovine spongiform encephalopathy in cattle). In these transmissible diseases, PrPC misfolds
+into a pathogenic and partially proteinase K (PK)-resistant conformation (PrPSc) [7, 8] due to
+either (i) a sporadic event, (ii) mutations in the coding Prn-p gene (causing genetic/familial
+disease forms) or (iii) contact with infectious “prions” (i.e., misfolded PrP species acting as
+“seeds” to template further PrPC misfolding in acquired forms) [9]. More recently, GPIanchored PrPC has emerged as an important cell surface receptor for neurotoxic oligomers of
+β-sheet-rich peptides/proteins [6, 10-14] such as PrPSc itself, Aβ, tau and α-synuclein, which
+are all mediators of neuronal dysfunction found in neurodegenerative diseases such as prion
+diseases, AD, tauopathies, and PD, respectively [14, 15]. The plasma membrane is the
+primary site for the detrimental interactions of such extracellular toxic conformers with the
+disordered N-terminal part of signaling-competent PrPC [16-18]. This binding causes
+synapto- and neurotoxic signaling (enabled by certain transmembrane proteins associating
+with PrPC [19, 20]) and, in the case of PrPSc seeds, subsequent templated misfolding of
+native PrPC. In prion diseases, the survival time is inversely correlated with PrPC
+ expression
+levels [21, 22]. For these reasons, approaches to lower total or cell surface PrPC levels are
+considered as promising therapeutic options with potential benefit also in the other
+abovementioned protein misfolding diseases [23-28].
+Of note, surface levels of PrPC are tightly regulated by various cellular mechanisms [29].
+Among those is the proteolytic cleavage and extracellular release (shedding) by the
+metalloproteinase ADAM10 [30-32]. The latter is yet another example of a protein with
+relevance in different proteinopathies: Acting as the main ‘α-secretase’, ADAM10 is
+responsible for the non-amyloidogenic processing of the amyloid-β precursor protein (APP),
+thus competing with the generation of toxic Aβ in the first place. As such, it has been
+proposed and investigated as a potential target in AD therapy [33-36]. Furthermore, by also
+lowering surface PrPC levels, ADAM10 stimulation impairs the binding of Aβ to neurons and
+thus reduces toxicity [28]. In experimental prion diseases in mice, ADAM10 similarly confers
+protection as its expression correlates with survival time [37, 38]. Lastly, once being released
+from the surface, shed PrP (sPrP), which possesses all relevant binding sites, may interfere
+with PrPSc formation (in prion diseases) and block or neutralize various toxic conformers in
+the extracellular space [39]. Similar effects have already been described for recombinant or
+anchorless PrP versions, artificial PrP dimers, or the soluble N-terminal fragment (N1)
+resulting from the constitutive α-cleavage in the middle of PrPC [11, 40-47], which may all be
+considered as a proxy for physiologically acting bona fide sPrP. In support of this, we here
+provide data obtained with murine disease models indicating that physiologically sPrP acts
+protective in neurodegenerative diseases by blocking and sequestering toxic oligomers.
+When considering new treatment options against currently incurable diseases: why not
+utilizing a potentially protective process already provided by nature? While ADAM10 has
+been suggested as a therapeutic target in AD [33, 35], apparent problems arise from its
+rather broad expression pattern, the multitude of substrates in different tissues, and its
+involvement in various important physiological and pathological processes ranging from
+development and tissue homeostasis to intercellular communication and cancer [36, 48].
+was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+bioRxiv preprint doi: https://doi.org/10.1101/2021.04.19.440495; this version posted April 20, 2021. The copyright holder for this preprint (which
+Therefore, directly manipulating this protease may cause significant side-effects, whereas a
+substrate-specific approach to stimulate the ADAM10-mediated shedding of PrPC would
+likely be superior.
+Based on two earlier yet so far independent data-based concepts of (a) an increased
+ADAM10-mediated cleavage of some other ADAM10 substrates upon specific antibodybinding or dimerization [49-51], and (b) the protective effects of PrPC
+-directed antibodies in
+various models of Alzheimer`s and prion disease [52-66], we aimed at investigating how
+ligands binding to PrPC
+ would affect its supposed protective release by ADAM10. We show
+that a wide range of full-length (fl) IgG antibodies binding to central epitopes of PrPC and
+some other PrP-directed ligands increase the ADAM10-mediated PrP-shedding. In contrast,
+a fl-IgG antibody targeting repetitive epitopes within the octarepeat region of PrPC leads to
+strong PrPC surface clustering and subsequent internalization and lysosomal degradation of
+the PrPC-antibody complex, whereas an identical derivative in its single-chain form increases
+shedding similar to abovementioned ligands. Moreover, we provide structural insight
+suggesting that shedding-stimulating effects of a PrP-directed antibody are enabled by a
+moderate conformational change in the relative positioning of the N- and C-terminal halves of
+PrPC.
+Collectively, our data suggest that PrPC-to-ligand interactions play key roles in determining
+the fate of PrPC regarding strong surface clustering followed by internalization and
+degradation on the one hand, or increased ADAM10-mediated shedding on the other hand.
+Both mechanisms may pave the way for novel therapeutic options against a wide range of
+dementias. 
