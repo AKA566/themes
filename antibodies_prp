@@ -104,6 +104,7 @@ substrate-specific approach to stimulate the ADAM10-mediated shedding of PrPC wo
 likely be superior.
 
 Базируясь на более ранних идеях о повышенной активности АДАМ10 при димеризации или присоединении к специфичному антителу, и защитные свойства ПрПС-направленных антител в различным моделям СА и прионным заболеваниям, мы решили посмотреть, как влияют лиганды, присоединяемые к ПрПС, будут влиять на релиз АДАМ10. Мы показали, что широкий спектр
+нередуцированных по длине антител IgG, присоединяющихся к центральным эпитопам ПрПС и иные ПрП-направленные лиганды несколько увеличивают релизинг АДАМ10 и осыпание. Напротив, IgG антитело, целью которого были октапептидные повторы в ПрПС приводит к сильной кластеризации ПрПС и последующей интернализации липосомальной деградации комплекса ПрПС-антитело в то время как идентичные производные его единственной цепи осыпание-таки усиливают. Более того, мы предлагаем структурный инсайт, почему осыпание усиливается - из-за умеренного конформационного изменения в N- и С-концах ПрПС.
 Based on two earlier yet so far independent data-based concepts of (a) an increased
 ADAM10-mediated cleavage of some other ADAM10 substrates upon specific antibodybinding or dimerization [49-51], and (b) the protective effects of PrPC
 -directed antibodies in
@@ -119,6 +120,9 @@ shedding similar to abovementioned ligands. Moreover, we provide structural insi
 suggesting that shedding-stimulating effects of a PrP-directed antibody are enabled by a
 moderate conformational change in the relative positioning of the N- and C-terminal halves of
 PrPC.
+
+В целом, наши данные утверждают, что ПрПс-лиганд взаимодействия играют ключевые роли в определении "судьбы" ПрПС, включая сильную кластеризацию на поверхности с последующей интернализацией и деградацией, или усилившееся АДАМ10 осыпание с другой стороны. Оба механизма могут определить новые терапевтические методики.
+
 Collectively, our data suggest that PrPC-to-ligand interactions play key roles in determining
 the fate of PrPC regarding strong surface clustering followed by internalization and
 degradation on the one hand, or increased ADAM10-mediated shedding on the other hand.
