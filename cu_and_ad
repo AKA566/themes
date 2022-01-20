@@ -156,3 +156,35 @@ another of the same type.12,22 Mutations and other modifications may also alter 
 metal ion.
 
 дополнительную информацию о типе лигандов, включенных в БКМ-БА взаимодействие (ББВ), путем диполь-дипольных и лиганд-метал переносов заряда, но конклюзивно соотнести такие переносы заряда с конкретным режимом ББВ - остается сложной задачей. Чтобы понять, какие конкретно аминокислотные остатки участвуют в ББВ, применялись пойнт-мутации и химическая модификация БА. Однако, мутации или блокирование взаимодействующих остатков вводят большое перераспределение в первую координационную сферу для компенсации утерянного лиганда, в то же время на спектре, несмотря на контринтуитивность, это отражается незначительно, если даже заменить один остаток на другой, но такого же типа. Мутации и модификации также могут изменить координационное окружение, хотя измененный остаток вообще не участвовал в интерфейсе ББВ.
+
+3. Defining the Cu2þ/Aβ Coordination Sphere:
+The Solution
+A superior method for studying Cu2þ coordination of Aβ is to
+introduce site-specific isotopic labels to the surrounding nuclei
+and examine the resulting spectral changes using EPR methods, which directly probe the electronnuclear interactions.
+The theory and applications of EPR, in particular CW-EPR,
+ESEEM, and electronnuclear double resonance (ENDOR)
+are described in comprehensive texts,21,23 and the EPR of
+Cu2þ complexes and proteins has also been reviewed.24,25
+Using CW-EPR, the goal is to resolve and observe changes in
+the metalligand superhyperfine (shf) pattern (Figure 1C)
+that accompany a change in both the nuclear spin I and
+magnetic moment gn upon varying the isotopic content of
+a specific nucleus. Much the same way one aims to infer the
+coordination of specific residues by observing spectral
+changes (e.g., in g|| and A||(Cu)) upon introducing a point
+mutation, this can be more definitively achieved by observing spectral changes (e.g., in the shf structure of CW-EPR
+spectra, or in the nuclear frequencies in ESEEM and ENDOR
+spectra) following introduction of a site specific isotopic
+label. The isotopic labeling approach is more sensitive to
+pH dependent changes in ligand environment and does not
+perturb the native structure of the metalprotein complex.
+Its utility has been demonstrated in the study of the Cu2þ
+coordination environment of the prion protein (PrP) octarepeat fragment, with its accuracy in this instance being
+verified by X-ray crystallography.26 Reference 26 affords
+an excellent review of the application of EPR and isotopic
+labeling to the structure and function of Cu2þ coordination
+
+Определение координационной сферы ББВ: Решение.
+
+Выигрышный метод для изучения ББВ - ввести сайт-специфичные изотопные метки в окружающие ядра и изучить спектральные изменения ЭПР, при котором непосредственно измеряются электрон-ядерные взаимодействия. Используя ГВ ЭПР требуется разрешить и найти изменения в метал-лигандном супергипердробном орнаменте, которые сопутствуют  изменению как в ядерном спине 1 так и в магнитном моменте gn, путем варьирования изотопного содержимого отдельных ядер.  При ЭПР с метками, мы также можем наблюдать изменения спектра, как и в случае с введением пойнт-мутаций, но вместо пойнт-мутаций мы вводим изотопные метки и, в отличие от пойнт-мутаций, введение меток не может радикально изменить среду и окружение, при которых происходит ББВ. Также изотопные метки чувствительны к изменениям pH.
